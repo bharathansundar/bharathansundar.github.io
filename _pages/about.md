@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Bharathan Sundar
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='caltech.edu'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -33,4 +33,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a final-year undergraduate in mathematics at Caltech. My favorite artist is [Young_Thug](https://en.wikipedia.org/wiki/Young_Thug).
+I am a final-year undergraduate in mathematics at Caltech. My research interests are broadly in statistical learning, optimization, and causal inference. I am also interested in methods and applications in high-dimensional statistics, online and reinforcement learning, and experimental design. 
+
+At Caltech, I have worked primarly with Prof. John Preskill on quantum information theory and Prof. Eric Mazumdar on online optimization. My (leisurely) mathematical interests include probabilistic methods in analysis, combinatorics, and theoretical computer science. I play tennis for Caltech, and my favorite artist is [Young Thug](https://en.wikipedia.org/wiki/Young_Thug). 
+
+Some things I have been reading recently:
+- on statistical decision making in public [policy](https://arxiv.org/pdf/2501.03457) 
