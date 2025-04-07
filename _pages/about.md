@@ -33,12 +33,18 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a final-year undergraduate in mathematics at Caltech. My research interests are broadly in algorithms for large-scale statistical inference, learning and optimization. I am also interested in methods and applications in high-dimensional statistics, online and reinforcement learning, and experimental design.    
+I am a final-year undergraduate in mathematics at Caltech. My research interests are broadly in algorithms for large-scale statistical inference, learning and optimization. 
 
-At Caltech, I have worked primarly with Prof. John Preskill on quantum information theory and Prof. Eric Mazumdar on online optimization. I compete on Caltech's tennis team, and my favorite artist is [Young Thug](https://en.wikipedia.org/wiki/Young_Thug). 
+At Caltech, I have worked primarly with Prof. John Preskill on quantum information theory and Prof. Eric Mazumdar on online optimization. I also spent a few summers at MIT, where I worked under Prof. Stefanie Jegelka on deep learning and Prof. David Gamarnik on algorithmic sampling. 
+
+I compete on Caltech's tennis team, and my favorite artist is [Young Thug](https://en.wikipedia.org/wiki/Young_Thug). 
 
 I hold broad interests across pure and applied mathematics. Some of my mathematical interests include probabilistic methods in analysis, combinatorics, and theoretical computer science.
 
 Here are some things I have been reading recently:
 - on statistical decision making in public [policy](https://arxiv.org/pdf/2501.03457) 
 
+
+To read:
+- [AI for science](https://arxiv.org/pdf/2307.08423)
+- [Foundation agents](https://arxiv.org/pdf/2504.01990)
