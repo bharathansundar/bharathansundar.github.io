@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-nav: true
 subtitle: <a href='https://caltech.edu'>Affiliations</a>. 
 
 
