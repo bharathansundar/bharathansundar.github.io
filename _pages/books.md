@@ -10,29 +10,26 @@ collection: books
 >
 > -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 
-## Books that I am reading, have read, or will read
-
-Here are some papers/monographs I have been reading recently:
-- on statistical decision making in public [policy](https://arxiv.org/pdf/2501.03457) 
-- on the impossibility of supersized [machines](https://arxiv.org/pdf/1703.10987)
-- on CIA internal prediction [markets](https://www.cia.gov/resources/csi/static/Prediction-Markets-Enhance-Intel.pdf)
-- on differential [geometry](https://people.ucsc.edu/~rmont/classes/ManifoldsI/Lectures/TrianglesToMfds.pdf)
-- on economic perspectives of AI
-- on living in a [simulation] (https://simulation-argument.com/simulation.pdf)
-- on problem of old evidence
+# Here are some papers/monographs I have been reading recently:
+- on statistical decision making in [public policy](https://arxiv.org/pdf/2501.03457) 
+- on CIA internal [prediction markets](https://www.cia.gov/resources/csi/static/Prediction-Markets-Enhance-Intel.pdf)
+- a primer on differential [topology](https://people.ucsc.edu/~rmont/classes/ManifoldsI/Lectures/TrianglesToMfds.pdf)
+- a mechanism design perspective [on AI](https://arxiv.org/pdf/2507.06268)
+- are we living in a [simulation?](https://simulation-argument.com/simulation.pdf)
+- reframing the [problem of old evidence](https://iris.unito.it/bitstream/2318/1657959/2/Sprenger%202015%20Old%20Evidence.pdf)
 
 
-To read:
+# Some useful references:
 - [AI for science](https://arxiv.org/pdf/2307.08423)
 - [Foundation agents](https://arxiv.org/pdf/2504.01990)
 - [Statistical physics of inference](https://arxiv.org/pdf/1511.02476)
-- Some notes on [differential forms](https://arxiv.org/pdf/1604.07862)
-- [adaptive sampling](https://arxiv.org/abs/2309.14221)
 
 
-
-Books I've started reading (with progress)
-- water book
-- breath book
-- Eknath easwaran
-- animals book
+# I finally picked up (non-academic) reading again.
+- Worth of Water (Gary White and Matt Damon) 
+- Breath (James Nestor)
+- Who Gets What- and Why (Al Roth)
+- Disturbing the Universe (Freeman Dyson)
+- Skin in the Game (NN Taleb)
+- Bhagavad Gita for Daily Living (Eknath Easwaran)
+- Thinking, Fast and Slow (Kahneman)
