@@ -11,3 +11,28 @@ collection: books
 > -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 
 ## Books that I am reading, have read, or will read
+
+Here are some papers/monographs I have been reading recently:
+- on statistical decision making in public [policy](https://arxiv.org/pdf/2501.03457) 
+- on the impossibility of supersized [machines](https://arxiv.org/pdf/1703.10987)
+- on CIA internal prediction [markets](https://www.cia.gov/resources/csi/static/Prediction-Markets-Enhance-Intel.pdf)
+- on differential [geometry](https://people.ucsc.edu/~rmont/classes/ManifoldsI/Lectures/TrianglesToMfds.pdf)
+- on economic perspectives of AI
+- on living in a [simulation] (https://simulation-argument.com/simulation.pdf)
+- on problem of old evidence
+
+
+To read:
+- [AI for science](https://arxiv.org/pdf/2307.08423)
+- [Foundation agents](https://arxiv.org/pdf/2504.01990)
+- [Statistical physics of inference](https://arxiv.org/pdf/1511.02476)
+- Some notes on [differential forms](https://arxiv.org/pdf/1604.07862)
+- [adaptive sampling](https://arxiv.org/abs/2309.14221)
+
+
+
+Books I've started reading (with progress)
+- water book
+- breath book
+- Eknath easwaran
+- animals book
