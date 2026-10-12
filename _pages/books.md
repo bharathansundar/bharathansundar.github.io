@@ -54,9 +54,12 @@ I also like interviews and cover pieces of musicians:
 [Twitter](https://x.com/SundarBharathan)
 [HackMD](https://hackmd.io/@nEv16DdXQl-AQxM6yLJfnA)
 
-Within mathematics, I like more "concrete" phenomena, such as those in probability, combinatorics, ergodic theory. One day I hope to dive deeper into afoot into statistical physics and theoretical computer science.
+Within mathematics, I like more "concrete" phenomena, such as those in probability, combinatorics, ergodic theory. 
 
 
 Trivia tidbits, interesting quotes:
 "William de la Pole, the Duke of Suffolk, was a well-regarded commander and statesman during the Hundred Years' War. It was during his dukedom (1448-1450), however, that England lost its possessions in northern France, and a portion of the blame was pinned on de la Pole. (So potent was the blame, in fact, that he was murdered in 1450.) The unfortunate duke lost his life and also gained a nickname: Jack Napis. The Jack part came from Jack as a term of address for one deemed socially inferior; the s on the end was a common nickname element; and the api was an allusion to something on de la Pole’s heraldic badge (a kind of personal emblem): the image of an ape’s clog—a weight that was used with a chain to restrain a monkey. Jack Napis eventually developed into jackanapes, a word that referred first to a monkey or ape less than a century after the duke had met his demise. The word’s other meanings quickly followed.”
+
+
+Some more edits just now (6/11)
 
